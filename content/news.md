@@ -1,0 +1,11 @@
+- **May 2026** — Officially Dr. Wang 🎉 Ph.D. in Linguistics, National Taiwan University. Also appointed **Deputy Principal Investigator** of the CHAI (Co-Intelligence Humanities AI) Future Lab, NTU College of Liberal Arts.
+- **2026** — *Using perspectival words is harder than vocabulary words for humans — and even more so for multimodal language models* to appear at **ACL 2026**, San Diego.
+- **2026** — *When structure matters: Cross-lingual hyperbolic embeddings for Chinese and English wordnets* to appear at **LREC-COLING 2026**, Mallorca.
+- **2026** — Presenting the **Taiwan Cultural Reference Benchmark** at the 1st ACDC & SEA-LION Workshop on Culturally Aligned AI, Singapore (oral).
+- **2026** — Chapter *Multimodal lexical item* forthcoming in the **International Encyclopedia of Language and Linguistics** (3rd ed., Elsevier).
+- **January 2026** — Passed my dissertation defense: *Alignment and Accommodation: Linguistic Coordination in Multimodal LLM Agent Dyads in a Referential Communication Game*.
+- **October 2025** — *You prefer this one, I prefer yours* selected as a **Spotlight paper** at the PragLM Workshop, COLM 2025.
+- **August 2025** — Teaching *AI and Language Learning* at NTUT — closed with a 4.85/5.0 course evaluation.
+- **June–August 2025** — Invited **visiting scholar** at the Max Planck Institute for Psycholinguistics, Multimodal Language Department.
+- **June 2025** — Poster on LLM interaction simulation at the **MEDAL Summer School in Computational Modelling**, University of Birmingham.
+- **September 2024** — Started as **visiting PhD** at MPI Psycholinguistics, funded by the NSTC Thousand-Mile Horse grant for doctoral research abroad.

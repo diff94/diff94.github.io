@@ -1,0 +1,5 @@
+# Private documents — never publish these with the website.
+# (The CV contains a personal phone number; the application brief is confidential.)
+*.pdf
+*.docx
+.DS_Store
