@@ -1,10 +1,10 @@
-My work spans **computational linguistics, multimodal studies, and cognitive science**. The through-line: using multimodal large language models to address **educational gaps, healthcare necessities, and social inequalities** — a future where linguistic technologies enhance everyday convenience and promote equity across sectors.
+My work spans **computational linguistics, multimodal studies, and cognitive science**. The through-line: using multimodal large language models to address **educational gaps, healthcare necessities, and social inequalities**, a future where linguistic technologies enhance everyday convenience and promote equity across sectors.
 
 The tangram referential game is where this program starts, not where it ends: human tasks teach us what MLLMs are really doing; MLLM simulation teaches us what humans are really doing. Three threads carry that agenda:
 
 ### 🧩 Multimodal LLM agent communication
 
-I build interaction-oriented agentic frameworks that let multimodal LLM agents talk to each other in visually grounded tasks, then compare their coordination behavior with human dialogue corpora. This connects agent design to classic theories of dialogue — the Interactive Alignment Model and Communication Accommodation Theory — and asks what today's agents are still missing: conversational conventions, partner-specific adaptation, and the drive to become *more efficient together*. Understanding that gap is the first step toward agents that can simulate learners, patients, and conversation partners faithfully.
+I build interaction-oriented agentic frameworks that let multimodal LLM agents talk to each other in visually grounded tasks, then compare their coordination behavior with human dialogue corpora. This connects agent design to classic theories of dialogue, the Interactive Alignment Model and Communication Accommodation Theory, and asks what today's agents are still missing: conversational conventions, partner-specific adaptation, and the drive to become *more efficient together*. Understanding that gap is the first step toward agents that can simulate learners, patients, and conversation partners faithfully.
 
 ### 🏮 Cultural pragmatics & evaluation
 

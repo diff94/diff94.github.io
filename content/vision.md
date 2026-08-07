@@ -1,4 +1,4 @@
-My research spans **computational linguistics, multimodal studies, and cognitive science**, with one aim: putting **multimodal large language models (MLLMs)** to work on educational gaps, healthcare necessities, and social inequalities. I envision a future where sophisticated linguistic technologies enhance everyday convenience and promote **equity** across sectors.
+My research spans **computational linguistics, multimodal studies, and cognitive science**, with one aim: putting multimodal large language models (MLLMs) to work on educational gaps, healthcare necessities, and social inequalities. I envision a future where sophisticated linguistic technologies enhance everyday convenience and promote equity across sectors.
 
 The tangram task above is just the beginning, a way to *know MLLMs better through human tasks, and know humans better through MLLM simulation*.
 
