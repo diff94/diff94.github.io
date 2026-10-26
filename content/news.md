@@ -1,4 +1,5 @@
-- **May 2026** — Officially Dr. Wang 🎉 Ph.D. in Linguistics, National Taiwan University. Also appointed **Deputy Principal Investigator** of the CHAI (Co-Intelligence Humanities AI) Future Lab, NTU College of Liberal Arts.
+- **May 2026** — Officially Dr. Wang 🎉 Ph.D. in Linguistics, National Taiwan University. Also appointed **Deputy Executive Director** of the CHAI (Co-Intelligence Humanities AI) Future Lab, NTU College of Liberal Arts.
+- **2026** — **Honorable Mention**, Ph.D. Dissertation Award, **Linguistic Society of Taiwan** (台灣語言學會博士論文獎佳作).
 - **2026** — *Using perspectival words is harder than vocabulary words for humans — and even more so for multimodal language models* to appear at **ACL 2026**, San Diego.
 - **2026** — *When structure matters: Cross-lingual hyperbolic embeddings for Chinese and English wordnets* to appear at **LREC-COLING 2026**, Mallorca.
 - **2026** — Presenting the **Taiwan Cultural Reference Benchmark** at the 1st ACDC & SEA-LION Workshop on Culturally Aligned AI, Singapore (oral).
