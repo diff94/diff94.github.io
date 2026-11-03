@@ -12,6 +12,8 @@ Da-Chen Lian, Mao-Chang Ku, **Po-Ya Angela Wang**, Wei-Ling Chen, and Shu-Kai Hs
 
 ### 🎤 Conferences & preprints
 
+**Po-Ya Angela Wang**, Chinmaya Mishra, Aslı Özyürek, Paula Rubio-Fernández, and Esam Ghaleb (2026). Aligned but Not Partner-Specific: How Multimodal LLM Agents Succeed in Reference Games Without Forming Conceptual Pacts. *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*. 🏆 **Outstanding Paper Award** — one of ~20 out of 17,669 Main Conference submissions.
+
 Dota Tianai Dong, Yifan Luo, **Po-Ya Angela Wang**, Aslı Özyürek, and Paula Rubio-Fernández (2026). Using perspectival words is harder than vocabulary words for humans — and even more so for multimodal language models. *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)*, San Diego, California.
 
 Mao-Chang Ku, Da-Chen Lian, Pin-Er Chen, **Po-Ya Angela Wang**, Wei-Ling Chen, and Shu-Kai Hsieh (2026). When structure matters: Cross-lingual hyperbolic embeddings for Chinese and English wordnets. *LREC-COLING 2026*, Mallorca, Spain.
